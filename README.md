@@ -44,6 +44,12 @@
 </div>
  <br>
 
+### 🌐 Idiomas
+- 🇧🇷 Português (nativo)
+- 🇬🇧 Inglês
+- 🇮🇹 Italiano
+- 🇪🇸 Espanhol
+- 🇫🇷 Francês (CURSANDO)
 
 ### 📚 Soft-Skills
 - Comunicação
