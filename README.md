@@ -81,13 +81,13 @@ O **Arch-Ai** é um chatbot que desenvolvi para incluir em aplicações web usan
 - **Teste de uso em:** (https://vrz-studio.tech)
 - **Fotos do Arch-Ai:**
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
     <img src="https://i.ibb.co/zVV9prQ/arch1.jpg" alt="Arch-Ai" style="max-width: 517px; max-height: 809px;">
     <img src="https://i.ibb.co/Qms4FjT/arch2.jpg" alt="Arch-Ai" style="max-width: 517px; max-height: 809px;">
     <img src="https://i.ibb.co/XLSMWDp/arch3.jpg" alt="Arch-Ai" style="max-width: 517px; max-height: 809px;">
     <img src="https://i.ibb.co/sv3DPc9/arch4.jpg" alt="Arch-Ai" style="max-width: 517px; max-height: 809px;">
-    <img src="https://i.ibb.co/XyGrs86/arch5.jpg" alt="Arch-Ai" style="max-width: 517px; max-height: 809px;">
 </div>
+
 
 </br></br>
 
