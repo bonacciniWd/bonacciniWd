@@ -1,15 +1,24 @@
+<h1>
+    <a href="https://vrz-studio.tech/">
+     <img align="center" width="40px" src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif"></a>
+    <span> Denis W. Bonaccini</span>
+</h1>
+
+
 <div style="display: flex; align-items: center;">
-    <h1 style="flex: 1;">Denis W. Bonaccini</h1>
     <img src="https://i.ibb.co/wgPFhW4/denis-bonaccini.jpg" alt="Denis W. Bonaccini" style="width: 180px; height: 180px; border-radius: 20px;">
 </div>
 
 
 
 
-
 <a href="https://git.io/typing-svg" target=_blank rel="nofollow noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&height=100&duration=1600&pause=1000&color=FF0000&width=750&lines=Olá!+Seja+bem-vindo!+:);Web+Developer...;MobileDeveloper...;System+Analyst...;...and a forever student!" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&duration=1600&pause=1000&color=1e5ad1&width=435&lines=Fala+Devs!+Sejam+bem-vindos!;Web+Developers...;Mobile+Developers...;FullStack..https://emresitesweb.com.br/wp-content/uploads/2023/11/gitironman01.png.;Systems+Analysts...;...and students!" style="max-width: 100%;">
 
-<h2 align="left">Hard-Skills</h2>
+<h2>
+    <a href="https://vrz-studio.tech/">
+     <img align="center" width="40px" height="40px" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"></a>
+    <span> Hard Skills</span>
+</h2>
 <div>
 <img align="center" alt="VS-Code" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">         
 <img align="center" alt="html5" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">   
@@ -57,7 +66,7 @@
 - [Anunciarty](https://anunciarty.vercel.app) "Aplicação criada como exemplo, para empresa de marketing que eleva o nível de um website em formato de elevador"
 - [VRZ-STUDIO](https://vrz-studio.tech) "Aplicação desenvolvida para a minha empresa de desenvolvimento de softwares"
 
-### 🤖 Arch-Ai Chatbot
+### 🤖 Arch-Ai Chatbot <img src="https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/gifs/animated-flame-01.gif" width="50px" height="80px" />
 
 O **Arch-Ai** é um chatbot que desenvolvi para incluir em aplicações web usando o React. Ele utiliza a biblioteca React-Chat-Widget para fornecer uma interface de chat amigável aos usuários.
 
