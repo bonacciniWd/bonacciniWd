@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bonacciniWd
 - 👀 I’m interested in discover new languages
-- 🌱 I’m currently learning Javascript and react-native
+- 🌱 Learn Deep, and grow faster!
 - 💞️ I’m looking to collaborate on what i can
 - 📫 How to reach me ... you'll never do it!
 
