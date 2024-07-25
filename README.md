@@ -6,7 +6,7 @@
 
 
 <div style="display: flex; align-items: center;">
-    <img src="https://i.ibb.co/m5JDJDn.jpg" alt="Denis W. Bonaccini" style="width: 180px; height: 180px; border-radius: 20px;">
+    <img src="<a href="https://ibb.co/m5JDJDn"><img src="https://i.ibb.co/5hTMTMQ/93673-A76-2304-4354-AFDE-4-DA2-C4-A839-AA.jpg" alt="Denis W. Bonaccini" style="width: 180px; height: 180px; border-radius: 20px;">
 </div>
 
 
