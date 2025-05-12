@@ -72,18 +72,6 @@ O **Arch-Ai** é um chatbot que desenvolvi para incluir em aplicações web usan
 - **Navegação facilitada:** Ele auxilia os usuários na navegação do site, fornecendo orientações e sugestões relevantes.
 - **FAQ Dinâmico:** O chatbot inclui um conjunto de respostas dinâmicas para perguntas frequentes, ajudando os usuários a encontrar informações rapidamente.
 
-#### Tecnologias Utilizadas:
-- **React:** A base da aplicação, permitindo a criação de interfaces de usuário interativas.
-- **React-Chat-Widget:** A biblioteca utilizada para implementar a funcionalidade de chatbot na aplicação web.
-- **Teste de uso em:** (https://vrz-studio.tech)
-- **Fotos do Arch-Ai:**
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-    <img src="https://i.ibb.co/zVV9prQ/arch1.jpg" alt="Arch-Ai" style="max-width: 517px; max-height: 809px;">
-    <img src="https://i.ibb.co/Qms4FjT/arch2.jpg" alt="Arch-Ai" style="max-width: 517px; max-height: 809px;">
-    <img src="https://i.ibb.co/XLSMWDp/arch3.jpg" alt="Arch-Ai" style="max-width: 517px; max-height: 809px;">
-    <img src="https://i.ibb.co/sv3DPc9/arch4.jpg" alt="Arch-Ai" style="max-width: 517px; max-height: 809px;">
-</div>
 
 
 </br></br>
