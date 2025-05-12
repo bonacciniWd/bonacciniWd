@@ -58,21 +58,6 @@
 - Vue.js
 - Laravel
 
-### 👨‍💻 Projetos
-- [Soberana Luxo](https://soberanaluxo.com.br) "Aplicação com melhor desempenho em dispositivos mobile" [Aplicação Real e em uso]
-- [Anunciarty](https://anunciarty.vercel.app) "Aplicação criada como exemplo, para empresa de marketing que eleva o nível de um website em formato de elevador"
-- [VRZ-STUDIO](https://vrz-studio.tech) "Aplicação desenvolvida para a minha empresa de desenvolvimento de softwares"
-
-### 🤖 Arch-Ai Chatbot <img src="https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/gifs/animated-flame-01.gif" width="50px" height="80px" />
-
-O **Arch-Ai** é um chatbot que desenvolvi para incluir em aplicações web usando o React. Ele utiliza a biblioteca React-Chat-Widget para fornecer uma interface de chat amigável aos usuários.
-
-#### Funcionalidades:
-- **Atendimento ao cliente:** O Arch-Ai está disponível para ajudar os usuários com dúvidas frequentes, fornecendo respostas rápidas e precisas.
-- **Navegação facilitada:** Ele auxilia os usuários na navegação do site, fornecendo orientações e sugestões relevantes.
-- **FAQ Dinâmico:** O chatbot inclui um conjunto de respostas dinâmicas para perguntas frequentes, ajudando os usuários a encontrar informações rapidamente.
-
-
 
 </br></br>
 
