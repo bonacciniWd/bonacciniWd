@@ -120,6 +120,9 @@ Plataforma de análise de partidas de futebol utilizando IA, estatísticas avan�
 - APIs esportivas
 - Tailwind + Framer Motion
 
+  <img width="1903" height="937" alt="image" src="https://github.com/user-attachments/assets/d4547056-755c-490b-8dbd-cdf5e2ae31ad" />
+
+
 **Objetivo:**
 Transformar dados em insights sobre desempenho de jogadores, times e partidas em tempo real.
 
