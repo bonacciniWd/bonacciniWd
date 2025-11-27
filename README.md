@@ -121,7 +121,7 @@ Plataforma de análise de partidas de futebol utilizando IA, estatísticas avan�
 - Tailwind + Framer Motion
 
 
-<img align="center" alt="Javascript" height="600" width="340" src="https://github.com/user-attachments/assets/d7800a30-a824-4ad3-91a3-d728aedc9856">
+<img align="center" alt="Javascript" height="600" width="340" src="https://github.com/user-attachments/assets/d7800a30-a824-4ad3-91a3-d728aedc9856"><img align="center" alt="Javascript" height="600" width="340" src="https://github.com/user-attachments/assets/93f8e1dc-42ec-43f8-8e89-c8d19fcfe201">
 
 
 **Objetivo:**
