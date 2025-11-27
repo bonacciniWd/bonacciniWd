@@ -42,27 +42,74 @@
 - 🇪🇸 Espanhol
 - 🇫🇷 Francês (CURSANDO)
 
-### 📚 Soft-Skills
-- Comunicação
-- Trabalho em equipe
-- Resolução de problemas
+### 📚 Soft Skills
+
+-Comunicação clara entre times técnicos e não técnicos
+
+-Pensamento analítico e visão estratégica de produto
+
+-Resolução de problemas complexos com foco em impacto real
+
+-Autogestão em projetos solo e liderança em iniciativas independentes
+
+-Mentalidade de inovação e melhoria contínua
+
+-Facilidade em aprender e aplicar novas tecnologias
+
+-Capacidade de transformar ideias em soluções práticas
 
 ### 🎯 Objetivos
-- Contribuir para projetos de código aberto
-- Aprender novas tecnologias
-- Compartilhar conhecimento com a comunidade
+
+-Contribuir ativamente em projetos open source relacionados a IA, visão computacional e automação
+
+-Evoluir soluções como iFootball, Detec-O e iGolpe para escala nacional
+
+-Criar aplicações com impacto social (segurança, educação, esportes, prevenção de golpes)
+
+-Aprimorar arquiteturas de sistemas usando IA e dados em tempo real
+
+-Compartilhar conhecimento por meio de projetos, conteúdo e mentorias
+
+-Consolidar presença como referência em:
+
+-IA aplicada
+
+-Visão computacional
+
+-Automações inteligentes
+
+-Monitoramento urbano
+
+-Análise esportiva com dados
 
 ### 🌱 Atualmente aprendendo
-- GraphQL
-- Next.js
-- Vue.js
-- Laravel
+
+-Keras + TensorFlow para modelos personalizados de visão computacional
+
+-Integração de IA com câmeras (RTSP, DVR, Roboflow, pipelines em Python)
+
+-Otimização de modelos para edge devices e GPU
+
+▬ Integração de IA com aplicações em:
+
+-React Native
+
+-Next.js
+
+-n8n
+
+-Processamento de vídeo em tempo real
+
+-Arquitetura de sistemas de IA em produção (MLOps básico)
+
+
 
 
 </br></br>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonacciniWd&show_icons=true&theme=tokyonight)](https://github.com/bonacciniWd/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonacciniWd&langs_count=8)
 
 - 🌱 Learn Deep, and grow faster!
 - 💞️ I’m looking to collaborate on what i can
