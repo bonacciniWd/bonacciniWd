@@ -108,7 +108,7 @@
 </br></br>
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bonacciniWd)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonacciniWd&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 - 🌱 Learn Deep, and grow faster!
 - 💞️ I’m looking to collaborate on what i can
