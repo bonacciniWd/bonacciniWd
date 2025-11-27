@@ -108,7 +108,7 @@
 </br></br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonacciniWd&hide_progress=true)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bonacciniWd)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 Learn Deep, and grow faster!
 - 💞️ I’m looking to collaborate on what i can
