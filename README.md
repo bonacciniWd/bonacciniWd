@@ -108,8 +108,7 @@
 </br></br>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonacciniWd&show_icons=true&theme=tokyonight)](https://github.com/bonacciniWd/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonacciniWd&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
 
 - 🌱 Learn Deep, and grow faster!
 - 💞️ I’m looking to collaborate on what i can
