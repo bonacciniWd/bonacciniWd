@@ -140,6 +140,9 @@ Sistema de monitoramento com câmeras e IA para detectar situações suspeitas e
 - VPS (Ubuntu)
 - IA em tempo real
 
+  <img width="1894" height="954" alt="image" src="https://github.com/user-attachments/assets/155ea181-a9bc-4317-a957-4d02855c3692" />
+
+
 **Objetivo:**
 Prevenir incidentes e ajudar na tomada rápida de decisões em situações críticas.
 
