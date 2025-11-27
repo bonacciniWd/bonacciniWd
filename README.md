@@ -108,7 +108,7 @@
 </br></br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonacciniWd&stats_format=bytes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonacciniWd&hide_progress=true)
 
 - 🌱 Learn Deep, and grow faster!
 - 💞️ I’m looking to collaborate on what i can
