@@ -107,9 +107,82 @@
 
 </br></br>
 
+## 🌟 Projetos em destaque
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonacciniWd&prs_merged_percentage)
+### ⚽ iFootball – Inteligência para o futebol em tempo real
+Plataforma de análise de partidas de futebol utilizando IA, estatísticas avançadas e análise em tempo real.
 
-- 🌱 Learn Deep, and grow faster!
-- 💞️ I’m looking to collaborate on what i can
+**Tecnologias:**
+- React / React Native
+- Supabase
+- IA & Machine Learning
+- WebSockets
+- APIs esportivas
+- Tailwind + Framer Motion
+
+**Objetivo:**
+Transformar dados em insights sobre desempenho de jogadores, times e partidas em tempo real.
+
+---
+
+### 👁️ Detec-O – Sistema inteligente de monitoramento urbano
+Sistema de monitoramento com câmeras e IA para detectar situações suspeitas em ambientes públicos como escolas, creches e centros urbanos.
+
+**Tecnologias:**
+- Python
+- Roboflow
+- RTSP / DVR / Câmeras IP
+- Visão computacional
+- VPS (Ubuntu)
+- IA em tempo real
+
+**Objetivo:**
+Prevenir incidentes e ajudar na tomada rápida de decisões em situações críticas.
+
+---
+
+### 🔐 iGolpe – Plataforma de prevenção contra golpes digitais
+Solução que analisa links, mensagens e padrões suspeitos para proteger pessoas contra fraudes digitais.
+
+**Tecnologias:**
+- Next.js
+- NLP
+- APIs de segurança
+- IA generativa
+- Análise de comportamento
+- n8n (automação)
+
+**Objetivo:**
+Aumentar a segurança digital e reduzir golpes através de inteligência automatizada.
+
+---
+
+### 🤖 Automação Inteligente com n8n
+Criação de workflows automatizados integrando IA, APIs e bancos de dados para diversas aplicações.
+
+**Tecnologias:**
+- n8n
+- Webhooks
+- IA (OpenAI / Roboflow)
+- Supabase / Firebase
+- Node.js
+- Filas e automações
+
+**Objetivo:**
+Reduzir tarefas manuais e escalar processos usando automação inteligente.
+
+---
+
+### 🛒 Projetos Shopify & E-commerce Inteligente
+Desenvolvimento de temas personalizados e soluções visuais avançadas para lojas Shopify.
+
+**Tecnologias:**
+- Liquid
+- JavaScript
+- CSS personalizado
+- UX/UI
+- Performance e SEO
+
+**Objetivo:**
+Criar experiências digitais modernas e inteligentes para e-commerce.
 
