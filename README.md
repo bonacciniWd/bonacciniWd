@@ -108,7 +108,7 @@
 </br></br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonacciniWd&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonacciniWd&prs_merged_percentage)
 
 - 🌱 Learn Deep, and grow faster!
 - 💞️ I’m looking to collaborate on what i can
